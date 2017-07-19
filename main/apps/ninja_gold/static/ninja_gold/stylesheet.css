@@ -1,0 +1,74 @@
+* {
+   padding: 0;
+   margin: 0 auto;
+}
+
+header p {
+   display: inline-block;
+}
+
+header div {
+   height: 20px;
+   width: 100px;
+   display: inline-block;
+   text-align: center;
+   background: white;
+}
+
+body {
+   height: 600px;
+   width: 900px;
+   background: darkgrey;
+}
+form {
+   height: 125px;
+   width: 22%;
+   padding: 10px;
+   display: inline-block;
+   background: white;
+   text-align: center;
+   border: 2px solid black;
+}
+
+form h3, p {
+   margin: 10px;
+}
+
+input {
+   margin: 10px;
+   padding: 5px;
+}
+
+footer {
+   width: inherit;
+   height: auto;
+}
+
+footer h4 {
+   margin: 10px;
+}
+
+footer a {
+   width: 30px;
+   text-align: center;
+}
+
+footer div {
+   width: inherit;
+   height: auto;
+   border: 2px solid black;
+   background: white;
+   font-size: 16pt;
+   display: block;
+}
+
+footer li {
+   list-style: none;
+   padding: 5px;
+}
+
+footer p {
+   width: 500px;
+   font-size: 16pt;
+   display: block
+}
